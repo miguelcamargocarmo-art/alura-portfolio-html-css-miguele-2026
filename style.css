@@ -1,1 +1,43 @@
-
+body{
+  background: #27F5D6;
+  strong{
+    color: blue
+  }
+  h1{
+    color: blue;
+    text-align: center;
+    span{
+      border: 1px solid blue;
+    }
+    p{
+      text-align: center;
+  }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 600px;
+      magin-left: auto;
+      margin-right: auto;
+    }
+text-align: center;
+  }
+    img {
+      display: block;
+      width: 100%;
+      height: auto;
+      max-width: 600px;
+      magin-left: auto;
+      margin-right: auto;
+ }
+      text-align: center;
+      strong{
+        color: blue;
+      } 
+  h2{
+    text-align: center;
+  }
+}
+    text-align: center;
+  }
+}
